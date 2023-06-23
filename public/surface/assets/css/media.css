@@ -1,0 +1,110 @@
+@media screen and (max-width: 1000px) {
+    .helpingText {
+        padding: 0px 20px;
+    }
+
+    .all_source_tabs {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .all_brands {
+        background-color: #fff;
+        padding: 15px;
+    }
+
+
+    .branding_tabs {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .petra_flows {
+        padding: 10px;
+    }
+
+    .select_type {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .tab_row {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+
+    .three_tabs {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .doing_tab {
+        font-size: 0.75rem;
+        font-weight: 500;
+    }
+
+    .footer_section {
+        padding: 50px 20px;
+    }
+
+    .website_brand_image {
+        margin-top: 35px;
+    }
+
+    .blog_item:nth-child(5n+1),
+    .blog_item:nth-child(1) {
+        grid-column: unset;
+    }
+
+    .blog_item {
+        margin: 20px;
+    }
+
+    .existing_brands {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .first_section {
+        padding: 25px;
+    }
+
+    .grid_petra {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .learnmorebtn {
+        margin-bottom: 15px;
+    }
+
+    .grid_petra_4 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .petra_ways {
+        padding: 25px;
+    }
+
+    .petra_popular_questions {
+        padding: 25px;
+    }
+
+    .grid_petra_4_lines {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .navigation {
+        position: relative;
+    }
+
+    .navigation_after_spacer {
+        height: 0px;
+    }
+
+    .blog-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+
+    #multple_projects {
+        grid-template-columns: repeat(1, 1fr) !important;
+        grid-gap: 25px;
+    }
+
+}
